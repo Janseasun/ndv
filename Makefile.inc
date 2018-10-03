@@ -1,0 +1,9 @@
+BASEOSNAME=GNU/Linux
+CC=/usr/bin/gcc
+BASELIBS=-lncurses
+BASELIBPATHS=-L/usr/lib
+BASEINCPATHS=-I/usr/include -I/usr/include 
+BASEFLAGS=
+INSTALLPATH=/home/deb-vasia/mcirc
+PROGRAMVER=0.02b
+PROGRAMNAME=mcirc
